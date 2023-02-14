@@ -56,8 +56,8 @@ jobs:
       r-version: "4.0"
   validation:
     name: Validation
-    uses: pharmaverse/admiralci/.github/workflows/r-pkg-validation.yml@main
-    if: github.event_name == 'release'
+    uses: pharmaverse/admiralci/.github/workflows/r-pkg-validation.yml@fix-validation-report
+    if: github.event_name == 'push'
     with:
       r-version: "4.0"
   check:
