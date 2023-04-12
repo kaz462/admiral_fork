@@ -1,4 +1,4 @@
-url: https://pharmaverse.github.io/admiral
+url: https://kaz462.github.io/admiral_fork
 
 template:
   bootstrap: 5
@@ -8,9 +8,9 @@ search:
   exclude: ['news/index.html']
 repo:
   url:
-    home: https://github.com/pharmaverse/admiral/
-    source: https://github.com/pharmaverse/admiral/blob/main/
-    issue: https://github.com/pharmaverse/admiral/issues/
+    home: https://github.com/kaz462/admiral_fork/
+    source: https://github.com/kaz462/admiral_fork/tree/1853_update_example_qs@devel/
+    issue: https://github.com/kaz462/admiral_fork/issues/
     user: https://github.com/
 news:
   cran_dates: true
